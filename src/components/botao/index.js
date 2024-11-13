@@ -5,5 +5,5 @@ import Icon from "react-native-vector-icons/FontAwesome";
 import Pagina from "./src/components/pagina";
 
 export default function App() {
-  return <Pagina />;
+  return;
 }
